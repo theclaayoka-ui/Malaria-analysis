@@ -1,0 +1,2 @@
+# Malaria analysis
+My latest publication on 'Application of Machine Learning models in predicting malaria prevalence in Nigeria: an analysis of the 2015-2020 demographic and health surveys '. By integrating data driven insights with public health research,  our work highlights how machine learning can support malaria control strategies and policy planning. This is a step towards smarter, evidence-based solutions in the fight against malaria. 
